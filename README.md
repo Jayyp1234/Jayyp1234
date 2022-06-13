@@ -1,4 +1,10 @@
-### Hi there 👋
+### 
+Hi there 👋 
+I'm Johnpaul, a software engineer in a healthy relationship with tech, fitness, travel and football.
+
+🌱 I’m currently learning about interesting Backend Development technologies and tools.
+📫 How to reach me: Email-okekejohnpaul12a@gmail.com, LinkedIn-@Okeke Johnpaul_
+⚡ Fun fact: My favourite things to do are stalking people on LinkedIn, binge-watching thriller series. I write on Medium and Hashnode
 
 <!--
 **Jayyp1234/Jayyp1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
