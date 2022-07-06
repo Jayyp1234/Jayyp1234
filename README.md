@@ -6,7 +6,7 @@ I'm Johnpaul, a software engineer in a healthy relationship with tech, movies, m
 
 📫 How to reach me: Email-okekejohnpaul12@gmail.com, LinkedIn-@Okeke Johnpaul_
 
-⚡ Fun fact: My favourite things to do are stalking people on LinkedIn, binge-watching thriller series. I write on Medium and Hashnode
+⚡ Fun fact: My favourite things to do are stalking people on LinkedIn, binge-watching thriller series. I write on Medium and Hashnode.
 
 <!--
 **Jayyp1234/Jayyp1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
