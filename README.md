@@ -126,9 +126,15 @@ Especially for students and early-career engineers.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayyp1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyp1234&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=Jayyp1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" />
+
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyp1234&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
 </div>
+
 
 ---
 
