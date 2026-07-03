@@ -12,7 +12,9 @@
 I’m a **multi-disciplinary technologist** blending strong foundations in:
 
 - 💻 Software Engineering  
-- 🛢️ Petroleum Engineering  
+- 🛢️ Petroleum Engineering
+- 🧮 Genomac Researcher and Builder
+- 🧮 AMR Antimicrobial Resistance Researcher 
 - 🧮 Numerical & Scientific Computing  
 - 🔐 Secure Systems Architecture  
 
