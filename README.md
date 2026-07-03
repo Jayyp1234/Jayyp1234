@@ -1,179 +1,99 @@
 <h1 align="center">Hi there, I'm Okeke Johnpaul 👋</h1>
 
 <p align="center">
-  <b>Software Engineer • Computational Petroleum Engineer • Scientific Systems Builder • Avid Researcher</b><br>
-  <i> Solving real-world problems at the intersection of energy, software, and security, Building secure and scalable solutions across Fintech, SaaS, E-commerce, and Real Estate Tech Designing scalable digital platforms and engineering simulators at the intersection of energy, software, and applied mathematics.</i>
+  <b>Clinical-AI Builder • Computational Biology • Genomics & AMR Researcher • Software Engineer</b><br>
+  <i>I build production-grade clinical decision-support systems calibrated for African
+  populations — and, more broadly, translate hard scientific problems into working software.</i>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧬 What I'm Building Right Now
 
-I’m a **multi-disciplinary technologist** blending strong foundations in:
+**GenRARE Africa** — clinical decision-support for rare & genetic disease, calibrated for
+African genomes. A 58-disease African-priority atlas, an ancestry-aware variant engine that
+re-weights against gnomAD AFR allele frequencies, and a three-signal reasoner (knowledge graph +
+calibrated Random Forest + Claude) that surfaces its own disagreements instead of hiding them.
 
-- 💻 Software Engineering  
-- 🛢️ Petroleum Engineering
-- 🧮 Genomac Researcher and Builder
-- 🧮 AMR Antimicrobial Resistance Researcher 
-- 🧮 Numerical & Scientific Computing  
-- 🔐 Secure Systems Architecture  
+- 🏆 **Hackathon-winning** · 6 production services shipped in 18 weeks
+- 🔬 Moving into **clinical validation** with UCT's Division of Human Genetics (IRB pathway drafted)
+- 🌍 Live: `genrareafrica.vercel.app` · web + mobile (iOS TestFlight / Android)
 
-My work sits at a unique intersection:
-
-> Building production-grade software systems **and** engineering computation tools that solve real subsurface and energy problems.
-
-On one side, I design and deploy:
-
-- Scalable SaaS platforms  
-- Fintech & payment infrastructures  
-- Enterprise dashboards  
-- Secure APIs & authentication systems  
-
-On the other, I build:
-
-- Reservoir engineering simulators  
-- Drilling visualization tools  
-- Engineering education platforms  
-- EOS & phase behavior sandboxes  
-
-I’m driven by a simple philosophy:
-
-> Translate engineering theory into interactive computational systems.
+> The Western genetic tools were trained on the wrong population. I'm retraining them.
 
 ---
 
-## 🛠️ Dual Engineering Focus
+## 🔬 Research & Scientific Focus
 
-### 💻 Software & Systems Engineering
-
-- Full-stack web architecture  
-- Microservices & distributed systems  
-- Payment gateway integrations  
-- Secure authentication (OAuth2, JWT)  
-- RBAC & IAM frameworks  
-- Cloud infrastructure & DevOps  
-
-I’ve built systems across:
-
-- Fintech  
-- E-commerce  
-- Real estate tech  
-- Education platforms  
-- Enterprise SaaS  
+- 🧬 **Genomics** — ancestry-aware variant interpretation, ACMG re-weighting, African population calibration
+- 🦠 **Antimicrobial Resistance (AMR)** — computational approaches to resistance surveillance
+- 🧠 Explainable clinical reasoning & knowledge-graph inference
+- 📊 Applied ML for low-resource medical settings
 
 ---
 
-### 🛢️ Computational Petroleum Engineering
+## 💻 How I Build
 
-I apply software and numerical methods to energy engineering problems such as:
+Full-stack, production-first. The GenRARE stack is representative of how I ship:
 
-- Reservoir volumetrics & material balance  
-- Drilling design visualization  
-- Well architecture modeling  
-- Phase behavior simulation  
-- EOS computation systems  
+- **Frontend** — React / Next.js / TypeScript / Tailwind
+- **Backend** — Node + Express, Python + FastAPI, Prisma
+- **Data & ML** — Postgres (Neon), scikit-learn, knowledge graphs, Claude API
+- **Infra** — Railway, Vercel, Docker, CI/CD, OAuth2 / JWT / RBAC
 
-My focus is making petroleum engineering:
-
-- More visual  
-- More computational  
-- More accessible  
-
-Especially for students and early-career engineers.
-
----
-
-## 🧠 Research & Technical Interests
-
-- Equation of State Modeling  
-- Reservoir Simulation Foundations  
-- Miscibility & EOR Systems  
-- PDE-based flow modeling  
-- Numerical solvers & nonlinear systems  
-- AI applications in energy systems  
-- Sustainable energy engineering  
-
----
-
-## 🛠️ Tech Toolbox
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Scientific Computing
-- NumPy / SciPy  
-- MATLAB  
-- Numerical Recipes algorithms  
-- Nonlinear equation solvers  
-- Engineering visualization systems  
-
-### Frontend & Visualization
-- React / Next.js  
-- TailwindCSS  
-- Engineering dashboards  
-- Simulation UI systems  
-
-### Cloud & Infrastructure
-- AWS / Azure  
-- Docker  
-- CI/CD pipelines  
-- Linux environments  
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🌱 What I'm Currently Exploring
+## 🧮 Multidisciplinary Range
 
-- Linear Algebra & Numerical Analysis  
-- PDE systems in reservoir simulation  
-- Scientific computing in C++  
-- Microservices at scale  
-- Secure infrastructure systems  
-
----
-
-## 🧪 Engineering + Software Projects
+Before clinical AI, I built computational tools for **energy & petroleum engineering** —
+reservoir simulators, EOS/phase-behavior sandboxes, drilling visualization. Same philosophy,
+different domain: turn dense scientific theory into interactive, computational systems.
 
 | Project | Domain |
 |--------|--------|
-| CasingSim | Drilling Engineering |
+| GenRARE Africa | Clinical Decision Support / Genomics |
 | VolumetricsLab | Reservoir Engineering |
 | DrillViz | Simulation Systems |
 | WellCost Pro | Enterprise SaaS |
 | SecurePay Gateway | Fintech Infrastructure |
 
+> The through-line: **numerical & scientific computing, translated into software people actually use.**
+
 ---
 
-## 🤝 Connect With Me
+## 🌱 Currently Exploring
+
+- Fine-grained African continental genetic substructure (beyond gnomAD AFR)
+- H3Africa data integration
+- PDE systems & numerical solvers
+- Scientific computing in C++
+
+---
+
+## 🤝 Connect
 
 <a href="https://www.linkedin.com/in/okeke-johnpaul/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:okekejohnpaul12@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
 
-## 💬 Collaboration
+## 💬 Open To
 
-I’m open to collaborating on:
-
-- Scientific software systems  
-- Energy engineering tools  
-- Simulation platforms  
-- Secure SaaS infrastructures  
-- Research & graduate opportunities  
+Clinical-AI collaborations · computational biology · genomics research · graduate opportunities ·
+scientific software systems
 
 ---
 
 ## ✨ Fun Fact
 
-I enjoy turning complex engineering theories into interactive simulation tools — sometimes as dashboards, sometimes as games.
-
----
-
+I turn complex scientific theory into interactive tools — sometimes dashboards, sometimes games.
